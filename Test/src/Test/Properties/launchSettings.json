@@ -18,7 +18,7 @@
     "Test": {
       "commandName": "Project",
       "launchBrowser": true,
-      "launchUrl": "http://localhost:80",
+      "launchUrl": "http://*:80",
       "environmentVariables": {
         "ASPNETCORE_ENVIRONMENT": "Development"
       }
