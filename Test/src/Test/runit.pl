@@ -1,1 +1,1 @@
-system('dotnet run');
+pwd
